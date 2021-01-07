@@ -6,7 +6,8 @@
 
 ## Installation :
 ```
-using in the Termux â†“â†“â†“
+using in the  Termux ↓↓
+
 $ pkg up -y
 $ pkg install python
 $ pkg install python2 -y
@@ -34,9 +35,9 @@ $ cd InstagramV
  
 $Tool key :
 
-$ Tool Username Â»Â»SidraELEzzTools
+$ Tool Username »»SidraELEzzTools
 
-$ ToolÂ PasswordÂ»Â»Termux Tools
+$ ToolÂ Password »»Termux Tools
 ```
 ## ***Follow Me***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
@@ -49,7 +50,5 @@ $ ToolÂ PasswordÂ»Â»Termux Tools
  in such casesðŸ–ŠWritten by Sidra ELEzz.***
 
 ### Screenshot
-![IMG_20210107_141104_434](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/IMG_20210107_141104_434.jpg?token=ASKBX7VOQWJWX2MTQ66D5CC763W2M)
-### Screenshot
-![IMG_20210107_141323_827](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/IMG_20210107_141323_827.jpg?token=ASKBX7SZ3YZ6O5GYZ2NPFNC763XHC)
+![Screenshot_2021-01-06-17-50-41](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/Screenshot_2021-01-06-17-50-41.png)
 
