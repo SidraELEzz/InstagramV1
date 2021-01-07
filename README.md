@@ -34,9 +34,9 @@ $ python2 Sidratools.py
  
 $ Tool key :
 
-$ Tool Username »»SidraELEzzTools
+$ Tool Username »»
 
-$ ToolÂ Password»»Termux Tools
+$ ToolÂ Password»»
 ```
 ## ***Follow Me***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
