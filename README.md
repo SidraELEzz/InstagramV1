@@ -6,7 +6,7 @@
 
 ## Installation :
 ```
-using in the  Termux ↓↓
+using in the Termux ↓↓
 
 $ pkg up -y
 $ pkg install python
@@ -37,7 +37,7 @@ $Tool key :
 
 $ Tool Username »»SidraELEzzTools
 
-$ ToolÂ Password »»Termux Tools
+$ ToolÂ Password»»Termux Tools
 ```
 ## ***Follow Me***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
@@ -50,5 +50,5 @@ $ ToolÂ Password »»Termux Tools
  in such casesðŸ–ŠWritten by Sidra ELEzz.***
 
 ### Screenshot
-![Screenshot_2021-01-06-17-50-41](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/Screenshot_2021-01-06-17-50-41.png)
+![Screenshot_2021-01-06-17-50-41](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/Screenshot_2021-01-06-17-50-41.png?token=ASKBX7RRLEGM5FGT7ZR2BOC7633LI)
 
