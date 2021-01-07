@@ -6,7 +6,7 @@
 
 ## Installation :
 ```
-using in the Termux 
+using in the Termux↓↓
 
 $ pkg up -y
 $ pkg install python
