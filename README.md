@@ -37,7 +37,7 @@ $ bash Instagramfollow.sh
 
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible
- in such casesðŸ–ŠWritten by Sidra ELEzz
+ in such casesðŸ–ŠWritten by Sidra ELEzz🖊
 
 ### Screenshot
 ![Screenshot_2021-01-07-20-12-12](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/Screenshot_2021-01-07-20-12-12.png)
