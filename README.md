@@ -13,7 +13,6 @@ $ pkg install python
 $ pkg install python2 -y
 $ pkg install openssl-tool
 $ pkg install curl 
-$ pkg install python2 -y
 $ pkg install git
 $ pip2 install bash
 $ pip2 install unzip
