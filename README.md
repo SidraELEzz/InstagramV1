@@ -21,7 +21,7 @@ $ git clone https://github.com/SidraELEzz/InstagramV1
 
 ## Tools Run :
 ```
-$  cd InstagramV1
+$ cd InstagramV1
 $ ls
 $ unzip InstagramV.zip
 $ ls
@@ -30,9 +30,9 @@ $ cd InstagramV
 
 ## Usage :
 ```
- $ python2 Sidratools.py
+$ python2 Sidratools.py
  
-$Tool key :
+$ Tool key :
 
 $ Tool Username »»SidraELEzzTools
 
