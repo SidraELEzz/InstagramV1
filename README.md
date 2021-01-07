@@ -6,8 +6,7 @@
 
 ## Installation :
 ```
-using in the Termux ↓↓
-
+using in the Termux â†“â†“â†“
 $ pkg up -y
 $ pkg install python
 $ pkg install python2 -y
@@ -47,9 +46,10 @@ $ ToolÂ PasswordÂ»Â»Termux Tools
 
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible
- in such casesðŸ–ŠWritten by Sidra ELEzz.🖊
+ in such casesðŸ–ŠWritten by Sidra ELEzz.***
 
 ### Screenshot
 ![IMG_20210107_141104_434](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/IMG_20210107_141104_434.jpg?token=ASKBX7VOQWJWX2MTQ66D5CC763W2M)
+### Screenshot
 ![IMG_20210107_141323_827](https://raw.githubusercontent.com/SidraELEzz/InstagramV1/main/IMG_20210107_141323_827.jpg?token=ASKBX7SZ3YZ6O5GYZ2NPFNC763XHC)
 
